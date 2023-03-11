@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 hello
 
-i'm here https://critbase.tech/
+i'm here https://critbase.net/
